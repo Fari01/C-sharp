@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\ThirdTask\ThirdTask\bin\Debug\ThirdTask.exe.config
+C:\Users\Hp\source\repos\ThirdTask\ThirdTask\bin\Debug\ThirdTask.exe
+C:\Users\Hp\source\repos\ThirdTask\ThirdTask\bin\Debug\ThirdTask.pdb
+C:\Users\Hp\source\repos\ThirdTask\ThirdTask\obj\Debug\ThirdTask.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ThirdTask\ThirdTask\obj\Debug\ThirdTask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ThirdTask\ThirdTask\obj\Debug\ThirdTask.exe
+C:\Users\Hp\source\repos\ThirdTask\ThirdTask\obj\Debug\ThirdTask.pdb
